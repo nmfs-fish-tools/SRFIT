@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/SRFIT/
+https://nmfs-fish-tools.github.io/SRFIT
 
 **************
 
